@@ -2,6 +2,7 @@
 import json
 import telebot
 from telebot import types
+import keep_alive.js
 
 # Замените 'YOUR_BOT_TOKEN' на токен вашего бота, полученный от BotFather
 TOKEN = '7174202587:AAFTulD-6fVqj-h-2an4hv8Ao4wCaXd8gJ0'
